@@ -1,0 +1,44 @@
+frage;antwort
+Wo befindet sich das Informatik-Studienbüro?; Das Studienbüro findest du im Haus A im 2. OG.
+Wo ist das CT?;---
+Wie lautet die Anschrift vom Informatikum?;Universität Hamburg\nVogt-Kölln-Str. 30\n22527 Hamburg
+Wie lang ist die Regelstudienzeit für den Bachelor?;Die Regelstudienzeit beträgt drei Jahre, also sechs Semester.
+Wie lang ist die Regelstudienzeit für den Master?;Die Regelstudienzeit beträgt zwei Jahre, also vier Semester.
+Welche verschiedenen Informatik-Studiengänge werden im Bachelor angeboten?;Die Universität Hamburg bietet sechs Bachelorstudiengänge an. Diese lauten Informatik, Wirtschaftinformatik, Computing in Science, Mensch-Computer-Interaktion, Software-System-Entwicklung und Bachelor Informatik Lehramt.
+Welche verschiedenen Informatik-Studiengänge werden im Bachelor angeboten?;Die Universität Hamburg bietet sechs Masterstudiengänge an. Diese lauten Informatik, Wirtschaftinformatik, Bioinformatik, IT-Management und -Consulting, Intelligent Adaptive Systems und Master Informatik Lehramt.
+
+Wie lang ist ein Semester?;Ein Semester ist sechs Monate lang.
+Die Vorlesung ist langweilig;Zeit für einen Mittagsschlaf in der ersten Reihe!
+Habe ich Anwesenheitspflicht?;Das hängt ganz von der Veranstaltung ab. In der Regel wird dies am ersten Termin bekannt gegeben.
+Muss ich in die Vorlesung?;Das hängt ganz von der Veranstaltung ab. In der Regel wird dies am ersten Termin bekannt gegeben.
+Wie viele Vorlesungen muss ich besuchen?;Pro Semester als Vollzeitstudent müssen etwa 30 Leistungspunkte gesammelt werden. Als Teilzeitstudenten musst du nur etwa 15 Leistungspunkte erzielen.
+Wie werde ich Teilzeitstudent?;Wenn mindestens 15 Arbeitsstunden pro Woche geleistet werden, kann ein entsprechender Antrag über Stine gestellt werden.
+Wie viel darf ich arbeiten?;Als Vollzeitstudent darfst du maximal 20 Stunden pro Woche arbeiten. Für Teilzeitstundenten gibt es kein Limit.
+Wie viele Versuche habe ich für eine Klausur?;In der Regel sind es 3 Versuche pro Klausur. Es wird empfohlen, das Modul nach 2 Fehlversuchen abzuwählen.
+Was passiert nach 3 Fehlversuchen?;Du wirst deutschlandweit für alle Studiengänge dieses Fachbereichs für 5 Jahre gesperrt. Bitte nicht ausprobieren!
+Wie viele Module kann ich pro Semester belegen?;Es gibt kein Limit, du Streber.
+Was ist ein Modul?;Ein Modul ist eine Gruppe von zusammengehörigen Veranstaltungen, beispielsweise eine Vorlesung und eine dazugehörige Übung. In der Regel musst du dich für Modul, Vorlesung und Übung einzeln anmelden.
+Warum gibt es so viele Übungsgruppen?;Übungsgruppen sind deutlich kleiner als die Vorlesungen, daher gibt es mehrere kleine Gruppen. Eine Anmeldung zu einer einzigen Gruppe genügt.
+Warum gibt es so viele Termine für Übungen?;Übungsgruppen sind deutlich kleiner als die Vorlesungen, daher gibt es mehrere kleine Gruppen. Eine Anmeldung zu einer einzigen Gruppe genügt.
+Wie bekomme ich BAföG?;BAföG muss beantragt werden. Dies kannst du online machen unter https://bafoeg-online.hamburg.de/bafoegonline/bafoeg/.
+Wie lange bekomme ich BAföG?;Die Maximaldauer für BAföG beträgt 6 Semester.
+Was ist ein Stipendium?;Ein Stipendium ist ein Ausbildungszuschuss, den du in der Regel nicht zurückzahlen musst. Die Höhe des Stipendiums fällt sehr unterschiedlich aus, und viele Stipendien sind an Gewisse Leistungen im Studium geknüpft.
+Wie bekomme ich ein Stipendium?;Es gibt für sehr viele Bereiche verschiedene Stipendien. Um eines zu erhalten, musst du dich bei jedem Stipendium einzeln bewerben. Weitere Informationen findest du unter https://www.studierendenwerk-hamburg.de/studierendenwerk/de/finanzen/Stipendien/stipendien_allgemein.php.
+
+Wo ist die Informatik-Mensa?;Die Mensa in Stellingen befindet sich in Haus B im 1. OG.
+Wo ist die Mensa Stellingen?;Die Mensa in Stellingen befindet sich in Haus B im 1. OG.
+Wo ist die nächste Mensa?;${mensa}
+Ich möchte essen;${mensa}
+Ich habe hunger;${mensa}
+Wie viel kostet Essen in der Mensa?;Die meisten Mahlzeiten sind für 2-4 Euro zu haben.
+Schmeckt das Essen in der Mensa?;Manchmal, aber es ist billig.
+Welche Mensa hat das beste Essen?;Die Mensen am Hauptcampus sind am ehesten zu empfehlen.
+Ich habe Bauchschmerzen.;Schade. Möglicherweise waren die Cevapcici für 1,50€ nicht so gut wie sie aussahen.
+
+Wie melde ich mich zu Veranstaltungen an?;Über Stine unter https://www.stine.uni-hamburg.de/.
+Woher bekomme ich eine TAN Liste?;Die erste TAN-Liste erhältst du per Post, weitere TAN-Listen kannst du über Stine anfordern. Gehe dazu auf https://www.stine.uni-hamburg.de/, melde dich an, und fordere einen neuen iTAN-Block unter Benutzerkonto -> iTAN-Manager an.
+Gibt es ein besseres Stine?;Nein, aber es gibt die Stine-App im Play Store und im App Store.
+Gibt es Stine als App?;Ja, du findest die Stine-App im Play Store und im App Store.
+Wann ist meine nächste Veranstaltung?;In Stine findest du eine Übersicht deiner nächsten Termine (sowohl online als auch in der App) unter Termine.
+
+Wie komme ich schnell vom Hauptcampus zum Informatikum?;Mit 5er und 281er Bussen dauert die Fahrt ca. 40 Minuten. Fahrrad, Auto und E-Roller sind schneller.
